@@ -1,0 +1,11 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="78" />
+        <option name="lastNaggingDate" value="1539867096075" />
+      </DonationNagger>
+    </option>
+    <option name="version" value="1" />
+  </component>
+</application>

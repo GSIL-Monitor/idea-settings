@@ -1,0 +1,10 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.3\plugins\Kotlin\kotlinc" />
+    <macro name="M2_REPO" value="C:/Users/Administrator/.m2/repository" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/Administrator/.m2/repository" />
+    <macro name="platform" value="E:/IdeaProjects/oa_platform/trunk/oa_platform/platform" />
+    <macro name="resumeParser" value="E:/IdeaProjects/oa_platform/trunk/oa_platform/resumeParser" />
+    <macro name="security" value="E:/IdeaProjects/oa_platform/trunk/oa_platform/security" />
+  </component>
+</application>

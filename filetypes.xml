@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="preVontractView" type="FTL" />
+      <mapping pattern="ReimbAndPreContractRelation.ftl" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="bpmn" type="XML" />
+    </extensionMap>
+  </component>
+</application>
